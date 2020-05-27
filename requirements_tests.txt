@@ -1,0 +1,6 @@
+pytest
+black
+coverage
+pyre-check
+setuptools
+mypy

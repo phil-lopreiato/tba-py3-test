@@ -1,0 +1,5 @@
+**__pycache__/**
+.pyre/
+.mypy_cache
+.coverage
+*-key.json
